@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IXKitDemo.iml" filepath="$PROJECT_DIR$/IXKitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ixkit/ixkit.iml" filepath="$PROJECT_DIR$/ixkit/ixkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pull2refresh/pull2refresh.iml" filepath="$PROJECT_DIR$/pull2refresh/pull2refresh.iml" />
+    </modules>
+  </component>
+</project>
